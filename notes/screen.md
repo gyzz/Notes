@@ -27,4 +27,5 @@ screen -r 窗口进程号
 ```
 or
 ```
-screen -d -r 窗口名字 
+screen -d -r 窗口名字
+```
