@@ -16,3 +16,4 @@ label_str = label_noascii.encode()
 ```
 label_no_punctuation = label_str.translate(None, string.punctuation)
 ```
+test
