@@ -29,3 +29,5 @@ or
 ```
 screen -d -r 窗口名字
 ```
+## screen常用快捷键
+![screen](./assets/screen.png)
